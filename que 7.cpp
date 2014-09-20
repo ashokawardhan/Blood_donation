@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cmath>
-
+//vasd
 #define R double 
 
 using namespace std;
