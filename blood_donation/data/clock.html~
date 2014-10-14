@@ -2,7 +2,8 @@
 <head>
 <script type="text/javascript">
 
-    CountDownTimer('11/15/2014 10:1 AM', 'countdown');
+    CountDownTimer('10/15/2014 10:1 AM', 'countdown');
+    //CountDownTimer('02/20/2015 10:1 AM', 'newcountdown');
 
     function CountDownTimer(dt, id)
     {
